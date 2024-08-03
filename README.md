@@ -29,8 +29,8 @@ Potential enhancements include:
 - Cloud synchronization for accessing notes across devices
 
 ## Preview
-- Write the markdown
-- 
+- Write it
+  
 ![image](https://github.com/user-attachments/assets/b93f5fc5-40d6-4556-b183-54793e39ab69)
 
 -Preview it
