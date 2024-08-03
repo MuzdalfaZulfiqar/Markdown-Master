@@ -28,6 +28,10 @@ Potential enhancements include:
 - A search feature for quick note retrieval
 - Cloud synchronization for accessing notes across devices
 
+## Preview
+
+![image](https://github.com/user-attachments/assets/8a70400b-786b-4329-ad9a-2fde9e146b67)
+
 ## Contributing
 
 Contributions are welcome. Opening issues or submitting pull requests for bug fixes, improvements, or new features is encouraged.
